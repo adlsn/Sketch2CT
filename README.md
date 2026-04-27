@@ -255,7 +255,7 @@ This project builds upon:
 **Delin An**  
 Ph.D., University of Notre Dame
 
-dan3@nd.edu
+``Email``: dan3@nd.edu
 
 Homepage: https://delin-an.github.io/
 
