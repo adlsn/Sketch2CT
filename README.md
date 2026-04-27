@@ -51,7 +51,7 @@ This design enables:
 </p>
 
 <p align="center">
-  <b>Figure 1.</b> Overview of the Sketch2CT framework. Replace this placeholder with the framework figure from the paper.
+  <b>Figure 1.</b> Overview of the Sketch2CT framework.
 </p>
 
 ### Core Components
@@ -73,7 +73,7 @@ Sketches provide **explicit geometry**, while text provides **high-level semanti
 </p>
 
 <p align="center">
-  <b>Figure 2.</b> Generated segmentation masks and medical volumes. Replace this placeholder with qualitative results from the paper.
+  <b>Figure 2.</b> Generated segmentation masks and medical volumes.
 </p>
 
 ### Supported Datasets
