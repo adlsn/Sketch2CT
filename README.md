@@ -62,7 +62,7 @@ This design enables:
 - **Capsule-based Attention Backbone**
 - **Segmentation-guided Volume Synthesis**
 
-Sketches provide **explicit geometry**, while text provides **high-level semantics**, enabling robust multimodal fusion for anatomically coherent 3D medical volume generation.
+Sketches provide **explicit geometry**, while text provides **high-level semantics**, enabling robust multimodal fusion for the generation of anatomically coherent 3D medical volumes.
 
 ---
 
@@ -197,14 +197,6 @@ python src/autoencoderv2.py
 python experiments/train.py
 ```
 
-Additional training scripts are also provided:
-
-```bash
-python experiments/mytrain.py
-python experiments/SKViT_train.py
-python experiments/sketchDiffTrain.py
-```
-
 ---
 
 ## 🧪 Inference
@@ -221,12 +213,6 @@ Generated volumes are saved as:
 *.nii.gz
 ```
 
-The generated volumes can be visualized using:
-
-- 3D Slicer
-- ITK-SNAP
-- ParaView
-
 ---
 
 ## 📈 Applications
@@ -236,13 +222,6 @@ The generated volumes can be visualized using:
 - Structure-aware synthesis
 - Simulation-ready dataset generation
 - Geometry-constrained generative modeling
-
----
-
-## 📄 Paper
-
-arXiv:  
-https://arxiv.org/pdf/2603.22509
 
 ---
 
